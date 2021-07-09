@@ -1,0 +1,1 @@
+hi file create by master after git init

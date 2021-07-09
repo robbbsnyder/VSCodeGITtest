@@ -1,1 +1,2 @@
 hi pre git file 1
+mod by m after git init
