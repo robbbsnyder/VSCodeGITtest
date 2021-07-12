@@ -1,5 +1,6 @@
 hi pre git file 1
 mod by m after git init
+line 3v mod by BPS after pull from remote main
 mod B3 in origin
 mod by B1fromM in orig folder
 mod line 5 after bclone 5 merge
@@ -12,3 +13,5 @@ mod pre stash BPS
 2nd BPS
 
 mod by bclone
+
+add line bps after pull from remote main
