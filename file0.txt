@@ -2,6 +2,7 @@ hi pre git file 1
 mod by m after git init
 mod B3 in origin
 mod by B1fromM in orig folder
+mod line 5 after bclone 5 merge
 mod by B2 in orig folder
 2nd mod by B1fromM in orig folder
 line 7 mod post stash pop
