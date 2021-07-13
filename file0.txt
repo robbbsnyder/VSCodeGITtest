@@ -2,11 +2,12 @@ hi pre git file 1
 mod by m after git init
 line 3v mod by BPS after pull from remote main
 mod B3 in origin
-mod by B1fromM in orig folder
-line 5 by clone, mod line 5 after bclone 5 merge
+line 5 by VS, mod by B1fromM in orig folder
+new line 6 by VS, mod line 5 after bclone 5 merge
 mod by B2 in orig folder
 2nd mod by B1fromM in orig folder
 line 7 mod post stash pop
+add new line vis studio
 mod pre staxh master
 mod pre stash BPS
 
